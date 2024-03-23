@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JadenJefferson1
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Operating Systems & Computer Architecture
-- 💞️ I’m looking to collaborate on Face Recognition, Chess AI, Foreign Language Communication Bot for Learning
+- 💞️ I’m looking to collaborate on Face Recognition, Connect 4 AI, Foreign Language Communication Bot for Learning
 - 📫 How to reach me jefferson_jaden@students.columbusstate.edu
 
 <!---
